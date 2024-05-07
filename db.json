@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "value": "Complete Exercise 1"
+    },
+    {
+      "id": "2",
+      "value": "Complete Exercise 2"
+    }
+  ]
+}

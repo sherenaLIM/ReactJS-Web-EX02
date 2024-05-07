@@ -1,0 +1,19 @@
+.container {
+  width: 40%;
+  margin: auto;
+  padding-top: 50px;
+  }
+  .form-text {
+  width: 100%;
+  }
+  .right {
+  float: right;
+  }
+  .entry-text {
+  float: left;
+  }
+  .entry {
+  padding: 25px;
+  border-bottom: 1px solid;
+  }
+
